@@ -38,9 +38,13 @@ CREATE TABLE TAB_ALUNO_a (
   );
   
   CREATE TABLE TAB_Aluno_b
+  
   (
+  
    ID VARCHAR(4000)
+   
    );
+   
    INSERT INTO TAB_Aluno_a(ID, RA, NOME, Data_Nascimento, Endereco_Email) 
    VALUES('1', '236059', 'Andre', 1996-06-10, 'Andre_Felipefer@hotmail.com');
    
