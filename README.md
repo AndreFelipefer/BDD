@@ -85,7 +85,7 @@
 	  
 	  CARGO VARCHAR2(4000),
 	  
-	  SALARIO DECIMAL(4000)
+	  SALARIO DECIMAL(10,2)
 	);
 	  CREATE TABLE TAB_colaborador_b
 	  (
