@@ -2,43 +2,45 @@
 # Banco De Dados (AC1)
 
 
+
 ## Lista Exercicios Diagrama / Tabelas SQL
 ### 1.1 -  PetShop 
 ![PetShop](https://github.com/AndreFelipefer/BDD/assets/129207232/e5d845fd-c2a0-4fa2-9beb-fed4ab0dabf5)
 
 Tabela SQL: 
-[Pet_Shop.txt](https://github.com/AndreFelipefer/BDD/files/12529155/Pet_Shop.txt)
+[Pet_Shop.txt](https://github.com/AndreFelipefer/BDD/files/12614227/Pet_Shop.txt)
 
 
 ### 1.2 -  Games
 ![Games](https://github.com/AndreFelipefer/BDD/assets/129207232/56229c19-f661-4da1-92e2-b92d67bfdeda)
 
 Tabela SQL: 
-[GAMES.txt](https://github.com/AndreFelipefer/BDD/files/12529169/GAMES.txt)
+[GAMES.txt](https://github.com/AndreFelipefer/BDD/files/12614229/GAMES.txt)
+
 
 ### 1.3 - Biblioteca 
 ![Biblioteca](https://github.com/AndreFelipefer/BDD/assets/129207232/76a7bd89-c4ba-452f-aa70-707e291cd300)
 
 Tabela SQL: 
-[Biblioteca.txt](https://github.com/AndreFelipefer/BDD/files/12529050/Biblioteca.txt)
+[Biblioteca.txt](https://github.com/AndreFelipefer/BDD/files/12614234/Biblioteca.txt)
 
 ### 1.4 - Locadora
 ![Locadora](https://github.com/AndreFelipefer/BDD/assets/129207232/7cf81f96-f404-4c72-bc3d-707f5ced7218)
 
 Tabela SQL: 
-[Locadora.txt](https://github.com/AndreFelipefer/BDD/files/12529177/Locadora.txt)
+[Locadora.txt](https://github.com/AndreFelipefer/BDD/files/12614237/Locadora.txt)
 
 ### 1.5 - Supermercado
 ![Supermercado](https://github.com/AndreFelipefer/BDD/assets/129207232/c92043c3-c1e9-4166-8838-8d3e16fbff37)
 
 Tabela SQL: 
-[Supermercado.txt](https://github.com/AndreFelipefer/BDD/files/12581254/Supermercado.txt)
+[Supermercado.txt](https://github.com/AndreFelipefer/BDD/files/12614240/Supermercado.txt)
 
 ### 1.6 - Videoteca
 ![Videoteca](https://github.com/AndreFelipefer/BDD/assets/129207232/363ed03c-da5f-4255-ade1-d716aa07ad2d)
 
 Tabela SQL: 
-[Videoteca.txt](https://github.com/AndreFelipefer/BDD/files/12529054/Videoteca.txt)
+[Videoteca.txt](https://github.com/AndreFelipefer/BDD/files/12614241/Videoteca.txt)
 
 ## Tabelas Exercicio Etapa 03
 
